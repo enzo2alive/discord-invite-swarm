@@ -1,0 +1,6 @@
+discord.py==2.3.2
+selenium==4.15.2
+pyautogui==0.9.54
+requests==2.31.0
+faker==19.11.0
+twocaptcha-python==0.1.4

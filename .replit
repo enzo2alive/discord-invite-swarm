@@ -1,0 +1,1 @@
+run = "python main.py --target YOUR_INVITE --count 500"
